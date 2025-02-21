@@ -1,3 +1,6 @@
 # tale-of-a-cruel-world
 Internal wiki for a worldbuilding project.
-![[President_Barack_Obama.jpg.webp]]
+
+![alt text](https://i.imgur.com/5Gu04nQ.jpeg)
+
+
