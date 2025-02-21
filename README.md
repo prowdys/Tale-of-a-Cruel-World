@@ -4,5 +4,4 @@ Internal wiki for a worldbuilding project.
 ![alt text](https://i.imgur.com/VRtV6aM.jpeg)
 
 
-
-TEST TEST ONE TWO!!!!
+I'M GONNA FUCKING KILL MYSELF!!!!
