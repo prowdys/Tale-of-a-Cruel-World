@@ -11,3 +11,6 @@ PUSH TEST
 PUSH TEST 2
 
 PULL TEST
+
+
+Helllo! I'm obama. You can read more about me [[tale-of-a-cruel-world/Arcana/obama|here!]]
