@@ -1,0 +1,1 @@
+The overarching rules that dictate magic in the world. While regions might have their own distinct magic flavors, 
