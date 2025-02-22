@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"7cf347fb7c5edebd","x":212,"y":-38,"width":250,"height":60,"type":"text","text":"rkgrgrg"},
+		{"id":"02965dd65ae9a5ab","x":-63,"y":-600,"width":400,"height":400,"type":"file","file":"tale-of-a-cruel-world/Untitled.canvas"}
+	],
+	"edges":[
+		{"id":"c40fe8793eb88634","fromNode":"7cf347fb7c5edebd","fromSide":"top","toNode":"02965dd65ae9a5ab","toSide":"bottom"}
+	]
+}

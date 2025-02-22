@@ -8,3 +8,4 @@ Internal wiki for a worldbuilding project. Currently includes: (insert list of s
 
 linking to [[tale-of-a-cruel-world/Arcana/hyperlink test|hyperlink test]]
 
+[[hyperlink test|Poopoo!]]
