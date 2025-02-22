@@ -1,1 +1,1 @@
-The overarching properties that dictate magic in the world. While regions might have their own distinct magic usages and applications, dictated by the influence of both the land and the Gods, magic generally shares similar origins and follows the same laws.
+iviThe overarching properties that dictate magic in the world. While regions might have their own distinct magic usages and applications, dictated by the influence of both the land and the Gods, magic generally shares similar origins and follows the same laws.
